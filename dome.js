@@ -57,7 +57,7 @@ var sites = {
 				"Utils": { 
 					"GMail"					: "https://mail.google.com/mail/u/0/",
 					"Google Drive"			: "https://drive.google.com/drive/",
-					"MyFitnessPal"			: "https://github.com/minhi98",
+					"MyFitnessPal"			: "https://www.myfitnesspal.com/food/diary",
 					"Office Online"			: "https://office365.qub.ac.uk/",
 					"Google Colab"			: "https://colab.research.google.com/",
 					"Subdomains"			: "http://freedns.afraid.org/zc.php?from=L3N1YmRvbWFpbi8="
