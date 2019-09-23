@@ -70,7 +70,9 @@ var sites = {
 				},
 				"Management": {
 					"Weight Log":"https://docs.google.com/spreadsheets/d/1NlXGWo-TKJTZchxlQ7rPJAa1PVdqK_jULx6tmy5wzC8/edit#gid=0",
-					"FFLogs" : "https://www.fflogs.com/"
+					"FFLogs" : "https://www.fflogs.com/",
+					"Translink: Belfast → Derry" : "https://drive.google.com/open?id=1BTJK7xVDVJxmBjxz5RM2CqCIgaGDUydt",
+					"Translink: Derry → Belfast" : "https://drive.google.com/open?id=1vnNBJxSi9Pl6btRvXkyzkz9fwAn67oM6"
 				}
 			};
 
