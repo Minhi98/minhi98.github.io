@@ -1,0 +1,1 @@
+credit for this new tab page to - https://rice.capuno.cat/ 
