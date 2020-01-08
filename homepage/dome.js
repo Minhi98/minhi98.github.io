@@ -43,7 +43,7 @@ var sites = {
 					"YouTube"				: "https://www.youtube.com/",
 					"Reddit"				: "https://reddit.com/",
 					"Twitch"				: "https://twitch.tv/",
-					"MangaDex"				: "https://mangadex.org/",
+					"MangaDex"				: "https://mangadex.cc/",
 					"Twitter"				: "https://twitter.com/",
 					"Github"				: "https://github.com/Minhi98"
 				},
