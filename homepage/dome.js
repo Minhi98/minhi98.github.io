@@ -36,6 +36,7 @@ var sites = {
 				"Boards": {
 					"Reddit"				: "https://reddit.com/",
 					"/r/ manga"				: "https://www.reddit.com/r/manga/",
+					"MangaDex"				: "https://mangadex.org/"
 				},
 				"Social": {
 					"YouTube"				: "https://www.youtube.com/",
