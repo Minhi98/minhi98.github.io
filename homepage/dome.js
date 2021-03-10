@@ -34,22 +34,20 @@
 // div.innerHTML : {a.innerHTML : a.href}
 var sites = {
 				"Boards": {
-					"/g/ - Technology"		: "https://boards.4chan.org/g/",
-					"/v/ - Vidya"			: "https://boards.4chan.org/v/",
-					"/fit/ - fitness"		: "https://boards.4chan.org/fit/",
-					"/wg/ - Wallpapers"		: "https://boards.4chan.org/wg/"
+					"/r/manga"				: "https://www.reddit.com/r/manga/",
 				},
 				"Social": {
 					"YouTube"				: "https://www.youtube.com/",
 					"Reddit"				: "https://reddit.com/",
 					"Twitch"				: "https://twitch.tv/",
-					"MangaDex"				: "https://mangadex.cc/",
 					"Twitter"				: "https://twitter.com/",
-					"Github"				: "https://github.com/Minhi98"
+					"MangaDex"				: "https://mangadex.org/",
+					"Guilded.gg"			: "https://www.guilded.gg/"
 				},
 				"QUB": {
 					"Canvas"				: "https://canvas.qub.ac.uk/",
 					"Q-Mail"				: "http://outlook.com/owa/qub.ac.uk",
+					"QOL"				    : "https://home.qol.qub.ac.uk/default.aspx",
 					"Q-Learning"			: "https://learning.qol.qub.ac.uk/default.aspx",
 					"Q-Library"				: "https://encore.qub.ac.uk/iii/encore_qub/myaccount?lang=eng&suite=qub",
 					"QSIS"					: "https://qsis.qub.ac.uk/"
@@ -57,7 +55,7 @@ var sites = {
 				"Utils": { 
 					"GMail"					: "https://mail.google.com/mail/u/0/",
 					"Google Drive"			: "https://drive.google.com/drive/",
-					"MyFitnessPal"			: "https://www.myfitnesspal.com/food/diary",
+					"Github"				: "https://github.com/Minhi98",
 					"Office Online"			: "https://office365.qub.ac.uk/",
 					"Google Colab"			: "https://colab.research.google.com/",
 					"Subdomains"			: "http://freedns.afraid.org/zc.php?from=L3N1YmRvbWFpbi8="
@@ -69,17 +67,16 @@ var sites = {
 					"nyaa.si"				: "https://nyaa.si/"
 				},
 				"Management": {
-					"FFLogs" : "https://www.fflogs.com/",
-					"Translink: Belfast → Derry" : "https://drive.google.com/open?id=1BTJK7xVDVJxmBjxz5RM2CqCIgaGDUydt",
-					"Translink: Derry → Belfast" : "https://drive.google.com/open?id=1vnNBJxSi9Pl6btRvXkyzkz9fwAn67oM6"
+					"FFLogs" 		: "https://www.fflogs.com/",
+					"Translink" 	: "https://www.translink.co.uk/"
 				}
 			};
 
 var search = { // Query variable name is q, hardcoded, looks like a standard already anyways
-				"default": "https://duckduckgo.com/",
-				"g": "https://google.com/search",
-				"s": "https://startpage.com/do/search",
-				"r": "https://reddit.com/search"
+				"default"	: "https://google.com/search",
+				"d"			: "https://duckduckgo.com/",
+				"s"			: "https://startpage.com/do/search",
+				"r"			: "https://reddit.com/search"
 			};
 
 // ---------- BUILD PAGE ----------
