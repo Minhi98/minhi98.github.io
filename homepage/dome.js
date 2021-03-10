@@ -34,14 +34,13 @@
 // div.innerHTML : {a.innerHTML : a.href}
 var sites = {
 				"Boards": {
+					"Reddit"				: "https://reddit.com/",
 					"/r/manga"				: "https://www.reddit.com/r/manga/",
 				},
 				"Social": {
 					"YouTube"				: "https://www.youtube.com/",
-					"Reddit"				: "https://reddit.com/",
 					"Twitch"				: "https://twitch.tv/",
 					"Twitter"				: "https://twitter.com/",
-					"MangaDex"				: "https://mangadex.org/",
 					"Guilded.gg"			: "https://www.guilded.gg/"
 				},
 				"QUB": {
