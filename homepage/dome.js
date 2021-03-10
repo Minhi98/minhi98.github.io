@@ -35,12 +35,13 @@
 var sites = {
 				"Boards": {
 					"Reddit"				: "https://reddit.com/",
-					"/r/manga"				: "https://www.reddit.com/r/manga/",
+					"/r/ manga"				: "https://www.reddit.com/r/manga/",
 				},
 				"Social": {
 					"YouTube"				: "https://www.youtube.com/",
 					"Twitch"				: "https://twitch.tv/",
 					"Twitter"				: "https://twitter.com/",
+					"Discord"				: "https://discord.com/app",
 					"Guilded.gg"			: "https://www.guilded.gg/"
 				},
 				"QUB": {
